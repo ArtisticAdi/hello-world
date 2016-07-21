@@ -1,2 +1,5 @@
 # hello-world
-Another repository
+
+Hiya!
+
+Just an artist trying to learn programming
